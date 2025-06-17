@@ -20,8 +20,6 @@ This project analyzes the Titanic dataset using various classification algorithm
 - **Correlation heatmap** of features with survival
 - **Bar plots** showing survival rates by sex and class
 - **Box plots** for age distribution across survival status
-- **Confusion matrices** for each model's prediction results
-- **ROC curves** to evaluate model performance
 - **Feature importance bar plots** for:
   - Logistic Regression (via coefficients)
   - Random Forest and XGBoost (via built-in importance)
